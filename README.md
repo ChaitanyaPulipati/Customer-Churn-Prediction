@@ -50,7 +50,7 @@ To get started with the project, follow these steps:
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/usmanbvp/Telecom-Customer-Churn-Prediction.git
+git clone https://github.com/ChaitanyaPulipati/Telecom-Customer-Churn-Prediction.git
 ```
 2. Install the project dependencies by running the following command:
 ```
