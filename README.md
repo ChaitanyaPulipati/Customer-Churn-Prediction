@@ -9,7 +9,7 @@
 
 <div style = " margin-top: 30px;text-align : center">
 
-![GitHub forks](https://img.shields.io/github/forks/usmanbvp/Telecom-Customer-Churn-Prediction?style=flat-square&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/ChaitanyaPulipati/Telecom-Customer-Churn-Prediction?style=flat-square&logo=github)
 ![GitHub Repo stars](https://img.shields.io/github/stars/usmanbvp/Telecom-Customer-Churn-Prediction?logo=GitHub)
 ![GitHub contributors](https://img.shields.io/github/contributors/usmanbvp/Telecom-Customer-Churn-Prediction?logo=github&color=blue)
 [![Static Badge](https://img.shields.io/badge/View%20Demo-orange?style=flat-square&logo=github&logoColor=black&labelColor=hex)](https://churnprediction.pythonanywhere.com/)
